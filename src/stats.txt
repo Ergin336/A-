@@ -1,0 +1,7 @@
+F of final node ---> 11.0
+F of final node ---> 16.0
+F of final node ---> 8.0
+Node time ---> 0.7106866836547852
+Total loss ---> 24
+Number of nodes ---> 5
+Number of expanded nodes ---> 160
